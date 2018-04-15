@@ -1,0 +1,5 @@
+module Cui [system] {
+    header "shim.h"
+    link "ui"
+    export *
+}
